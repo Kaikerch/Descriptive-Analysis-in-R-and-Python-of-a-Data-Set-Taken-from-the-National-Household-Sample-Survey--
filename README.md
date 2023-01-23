@@ -1,6 +1,6 @@
 # Descriptive Analysis in R and Python of a Data Set Taken from the National Household Sample Survey - 2015 by IBGE
 
-> Status do projeto: Concluído
+> Status: Concluded
 
 In this project, in Google Colaboratory, I descriptively analyzed a database obtained from the National Household Sample Survey carried out by the Brazilian Institute of Geography and Statistics in 2015 using the R language and the Python language. The National Household Sample Survey annually investigates general characteristics of the population, education, work, income and housing and others, with varying frequency, according to the information needs of the country, such as characteristics on migration, fertility, marriage, health, food security, among other topics. The survey of these statistics constitutes an important tool for the formulation, validation and evaluation of policies aimed at socioeconomic development and the improvement of living conditions in Brazil.
 *Step by step:
